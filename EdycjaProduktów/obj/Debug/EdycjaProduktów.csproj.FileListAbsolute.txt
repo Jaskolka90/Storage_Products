@@ -1,0 +1,14 @@
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\bin\Debug\EdycjaProduktów.exe.config
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\bin\Debug\EdycjaProduktów.exe
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\bin\Debug\EdycjaProduktów.pdb
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\EdycjaProduktów.csprojResolveAssemblyReference.cache
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\MainWindow.g.cs
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\App.g.cs
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\EdycjaProduktów_MarkupCompile.cache
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\EdycjaProduktów_MarkupCompile.lref
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\MainWindow.baml
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\EdycjaProduktów.g.resources
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\EdycjaProduktów.Properties.Resources.resources
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\EdycjaProduktów.csproj.GenerateResource.Cache
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\EdycjaProduktów.exe
+F:\Projekty C#\Wprowadzenie do WPF Anna Kempa v2\EdycjaProduktów\EdycjaProduktów\obj\Debug\EdycjaProduktów.pdb
